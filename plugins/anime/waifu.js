@@ -7,8 +7,8 @@ headerType: 5,
 footer: wm
 })
 }
-handler.help = ['waifu','loli','akira']
+handler.help = ['waifu','loli','akira','ana','asuna','ayuzawa','boruto','chitoge']
 handler.tags = ['anime']
-handler.command = /^(waifu|loli|akira)$/i
+handler.command = /^(waifu|loli|akira|ana|asuna|ayuzawa|boruto|chitoge)$/i
 
 module.exports = handler
