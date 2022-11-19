@@ -2,7 +2,7 @@ var handler = async(msg, {
 client 
 }) => {
 var sendOwner = await sendKontak(msg.from, Info.owner, msg)
-var teks = `*🚩 Hi kak @${msg.sender.split('@')[0]} ini adalah kontak creator kami, kami tidak akan menanggapi hal yang tidak penting.*`
+var teks = `*🚩 Hi kak @${msg.sender.split('@')[0]} ini Adalah Kontak HumanzzZ(owner) Jangan Di spam ya.*`
 client.sendMessage(msg.from, { text: teks, mentions: client.parseMention(teks)}, { quoted:sendOwner })
 }
 handler.help = ['owner', 'creator']
