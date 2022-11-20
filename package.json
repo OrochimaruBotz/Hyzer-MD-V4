@@ -23,16 +23,16 @@
         "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Hyzerr/Hyzer-MD-V4",
+    "homepage": "https://github.com/OrochimaruBotz/Hyzer-MD-V4",
     "author": {
-        "name": "HyzerOfficial"
+        "name": "HumanzzZ"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Hyzerr/Hyzer-MD-V4.git"
+        "url": "git+https://github.com/OrochimaruBotz/Hyzer-MD-V4.git"
     },
     "bugs": {
-        "url": "https://github.com/Hyzerr/Hyzer-MD-V4/issues"
+        "url": "https://github.com/OrochimaruBotz/Hyzer-MD-V4/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
